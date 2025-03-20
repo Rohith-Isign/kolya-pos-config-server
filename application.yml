@@ -1,2 +1,2 @@
 server:
-  port: 0 # Random port for microservices
+  port: 8081 # Random port for microservices
